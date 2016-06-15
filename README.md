@@ -1,7 +1,7 @@
 # Callback
 Tool for receiving requests for calls from your site
 
-![preview](https://raw.githubusercontent.com/shabuninil/combine/master/preview.png) 
+![preview](https://raw.githubusercontent.com/shabuninil/callback/master/preview.png) 
 
 ```html
 <div id="callback-widget"
