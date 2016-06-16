@@ -32,7 +32,7 @@ Tool for receiving requests for calls from your site
                                 <div class="input-group">
                                     <div class="input-group-addon"><i class="glyphicon glyphicon-phone"></i></div>
                                     <input type="tel" class="form-control" id="inputPhone"
-                                           placeholder="37529" name="phone" required>
+                                           placeholder="+37529" name="phone" required>
                                 </div>
                             </div>
                             <div class="col-xs-5 col-sm-5">
